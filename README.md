@@ -6,11 +6,9 @@ I enjoy building practical projects, learning new technologies, and improving my
 
 ## Currently Learning
 
-- C++
-- Python
+- Swift & iOS Development
 - Object-Oriented Programming
 - Data Structures & Algorithms
-- Swift & iOS Development
 
 ## Technologies
 
